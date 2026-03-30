@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": "864890ca-0f38-457a-8584-18e3e77847b0",
+      "name": "Elis",
+      "email": "poudel@gmail.com",
+      "passwordHash": "b82a5d3d47c9ddbf67fcf8f5c3c3f1af:756dcc67edd18863d309aeec92c65e0092d1d2096c88f913a39b09bf1004eb84fff595eb601167c9b67661a95ff61d7697d33f055e1f019216c09be60273ae8d",
+      "role": "admin",
+      "ethereumAddress": "0x4A376Ea1f654Bf0f86c7D4a4c3d7F985F4b00Bdf",
+      "approved": true,
+      "createdAt": 1774723780161
+    },
+    {
+      "id": "1a5cf1f9-f0a0-4964-8b35-f88fe9fc9858",
+      "name": "Joshan",
+      "email": "elis@gmail.com",
+      "passwordHash": "81a3b362a64a26829c0b1ea6350681ab:0b127150b574d0b37112e2618719be10e78e07a85df458ea9c175ee2cbabbbb494e5c38ea1c0151f1a6a2661c95220cc978472455457b539c585b95306b2029a",
+      "role": "manufacturer",
+      "ethereumAddress": null,
+      "approved": true,
+      "createdAt": 1774723811001
+    },
+    {
+      "id": "775aa79d-85c7-4fbf-a3eb-2bb18bd55511",
+      "name": "Joshan",
+      "email": "1@gmail.com",
+      "passwordHash": "3576e9b0f8170102f5f026d1f99ff248:a3524a07b8aa93162f697b035674dce2f996c5b9e9bbc67e2c6e1b7eda2cccb74f62d52437cb3e33e2fc6277d014806e43a4a1b54d01a35008394ee16658aa7c",
+      "role": "manufacturer",
+      "location": "Nepal",
+      "ethereumAddress": null,
+      "approved": true,
+      "createdAt": 1774751794388
+    },
+    {
+      "id": "f36d45dd-4910-4804-9503-76ef34231a99",
+      "name": "Joshan",
+      "email": "poudelelis@gmail.com",
+      "passwordHash": "f4d4c227e2d5ddebeddba79afe55d5dc:b82a89ffb34aa190453bccf4de3948ce9cd389cd6cfb7ddac5b55824a4b72feaa9719ee09235042779b85f9afdea5fedd15c5fb2c639b4ea7284b758206a32e8",
+      "role": "manufacturer",
+      "location": "India",
+      "ethereumAddress": "0xec73bD41f9158039B2568c857556530823D6A961",
+      "approved": true,
+      "createdAt": 1774752937779
+    },
+    {
+      "id": "4319dfab-d57b-4450-a861-fee497b051f6",
+      "name": "Aditya",
+      "email": "adi@gmail.com",
+      "passwordHash": "26df5a0b26575585a3923bfc1c942ac6:637fc7388ebe7c31f87057dad081098aa92d76e79193d7a603e904507040a7d1872f88d4ec344fcbdbdf580796396516930e67c2b94c1d256f99b43b62e63ccf",
+      "role": "manufacturer",
+      "location": "LLla",
+      "ethereumAddress": "0x26C9E5430DB55bb273A7079C682722398De95278",
+      "approved": true,
+      "createdAt": 1774753897199
+    },
+    {
+      "id": "65c38234-cf6e-446f-b41f-9f0469d607f1",
+      "name": "Aditya",
+      "email": "ad@gmail.com",
+      "passwordHash": "e1827967fcaf103be8425564a7b8ffe4:a8372c6829f1c653cef9af829e519ce90b4314cccc6e0e98a0f9643a78367b627d453a4f680e709aec459699717ee6cda38d96b509d7d24efa3c3dc89e979966",
+      "role": "manufacturer",
+      "location": "India",
+      "ethereumAddress": "0xd2263B33A00B2508BcE116392450144044c06D54",
+      "approved": true,
+      "createdAt": 1774754881163
+    },
+    {
+      "id": "39d2f6d6-8aa6-49c9-8189-b87906487576",
+      "name": "Joshan",
+      "email": "jo@gmail.com",
+      "passwordHash": "55cf2bd9fafc71fbccaa35da652227df:99d6295109fc38074fd084d387545bec5d65d2e533ad419dd559deff8ff26327ba5482401025cdcd7b03d261310735fd1395d018c2d29f737c548de3717de471",
+      "role": "warehouse",
+      "location": "oop",
+      "ethereumAddress": "0x5A645929655d6bB6b457c81Eb02682c95b9b3f32",
+      "approved": true,
+      "createdAt": 1774754975912
+    },
+    {
+      "id": "ad16175d-fdcd-4fd1-b74a-0ee7c485ce12",
+      "name": "Jatan",
+      "email": "ja@gmail.com",
+      "passwordHash": "92a85aaa350aec9f9c0f2b389658ec6f:942e479282fc31b328b72f9fa27c837665a87ea58c242273ac96a91716d680fd5d9d795975f04a86cd13392afaa44b1943323f81b312e2bebb0a7aa172c28402",
+      "role": "retailer",
+      "location": "Los",
+      "ethereumAddress": "0x400da625b1DeD148461B8811423Dfb6078fC513B",
+      "approved": true,
+      "createdAt": 1774758514003
+    },
+    {
+      "id": "dd12eaf4-25dc-4ce8-81dc-15b334c207f5",
+      "name": "Kri",
+      "email": "kr@gmail.com",
+      "passwordHash": "3851d79a79f693484b32faad8c57cbbf:1d889faa7e8130152c9d9c3a6c860246885f5358372602fb474e06962b0d6788ea70e5b4ffb99c6dbcbc8365e148fe269a300695589a101a3d723be0e3e9a402",
+      "role": "manufacturer",
+      "location": "Nepol",
+      "ethereumAddress": "0x564d804D6637C5F2FDdB72f60F92654Adf8aBC77",
+      "approved": true,
+      "createdAt": 1774780867706
+    },
+    {
+      "id": "b7c6e777-0381-49d1-b9a6-8c5a88d0b957",
+      "name": "Jatan",
+      "email": "jat@gmail.com",
+      "passwordHash": "04c02d7445e9a8cf9a64c068abbb6052:d24b412584f36dedd4bcae340adc454ea7a00e0e25444a92a7fb3818ad6b28bd12ed3f44b4e97f9c0b6bdec5bf0b19f1577a7db5571e64b0f41c13d84de665b3",
+      "role": "retailer",
+      "location": "India",
+      "ethereumAddress": "0x400da625b1DeD148461B8811423Dfb6078fC513B",
+      "approved": true,
+      "createdAt": 1774785112487
+    },
+    {
+      "id": "49556727-e691-4499-94ac-3e58d35ded06",
+      "name": "Joshan",
+      "email": "ja1@gmail.com",
+      "passwordHash": "85ccb7bc16be77aad0e424467306d54a:1988b18a75bf2ab3467ba172ec8e823b80a6fa5100c62db2334d3af524484e91db87610414337a2da7fe4b34fb534ef5239a0e8f0fffd17a97dd6d46e119d13f",
+      "role": "retailer",
+      "location": "India",
+      "ethereumAddress": "0xAF834c1f4D2b304D2C60c7121bD7360cC0c4B990",
+      "approved": true,
+      "createdAt": 1774787676732
+    },
+    {
+      "id": "0b0c04b1-bbd8-4904-8388-b0045fb0597a",
+      "name": "Elis",
+      "email": "li@gmail.com",
+      "passwordHash": "2838f2029dc12cdc40c10b1a1578cc3d:709bd7c77a0422859a88dc4ac46d70830db2ae148345a2b032324aa647ddc5e224de62ad4e3ef7da9e2dbf320639cb700cf95e8750a9b72010ce629b493f6afb",
+      "role": "manufacturer",
+      "location": "op",
+      "ethereumAddress": null,
+      "approved": false,
+      "createdAt": 1774803940282
+    }
+  ]
+}
